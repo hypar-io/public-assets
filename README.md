@@ -1,1 +1,1 @@
-Profile photos for Hypar sending mailboxes. Served by GitHub Pages so the mailbox provider can fetch them by URL.
+Public images and other static files Hypar needs to reference by URL (mailbox profile photos, email assets). Served by GitHub Pages at https://hypar-io.github.io/public-assets/. Nothing private goes here.
